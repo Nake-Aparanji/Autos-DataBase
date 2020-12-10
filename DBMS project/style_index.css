@@ -1,0 +1,21 @@
+body{
+	background-color: #FFFF00;
+}
+h1{
+	color: #FF0000;
+	font-family: Arial;
+	text-align: center;
+}
+h3{
+	display: inline-block;
+	color: #FF0000;
+	margin-top: 5px;
+}
+#mainLogo{
+	display: inline-block;
+	width: 50%;
+	height: 25%;
+	float: right;
+	margin-top: 50px;
+	margin-right: 100px;
+}

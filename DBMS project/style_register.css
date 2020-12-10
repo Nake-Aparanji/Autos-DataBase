@@ -1,0 +1,27 @@
+body{
+	background-color: #FFFF00;
+}
+div{
+	margin-top: 2px;
+	padding: 10px;
+	/*padding-top: 5px;*/
+}
+/*h1{
+	color: #FF0000;
+	font-family: Arial;
+	padding: 10px;
+}
+p{
+	/*display: inline;
+	text-align: center;
+	/*padding: 10px;
+}
+.pass{
+	display: inline-block;
+	margin-right: 50px;
+	float: left;
+}
+input, a{
+	display: inline-block;
+	align-items: center;
+}*/
